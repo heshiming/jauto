@@ -1,0 +1,2 @@
+#define jauto_VERSION_MAJOR @jauto_VERSION_MAJOR@
+#define jauto_VERSION_MINOR @jauto_VERSION_MINOR@
